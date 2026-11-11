@@ -29,11 +29,8 @@ This repository contains my individual submission for the Scientific Computing G
 - **SciPy** (for scientific algorithms, ODEs, integration, and optimization)
 - **Matplotlib** (for plotting and visual interpretation)
 
- ## How to Run the Code
+## How to Run the Code
 
-To run the scripts in this repository, follow these steps:
-
-1. Clone the repository:
+To run any of the scripts in this repository, ensure you have the required libraries installed:
 ```bash
-git clone https://github.com/kennedyTrades/bit2118-scientific-computing.git
-cd bit2118-scientific-computing
+pip install numpy scipy matplotlib
