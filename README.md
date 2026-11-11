@@ -31,7 +31,7 @@ This repository contains my individual submission for the Scientific Computing G
 
  ## How to Run the Code
 
-To run any of the scripts in this repository, follow these steps:
+To run the scripts in this repository, follow these steps:
 
 1. Clone the repository:
 ```bash
