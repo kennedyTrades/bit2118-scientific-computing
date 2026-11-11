@@ -29,14 +29,9 @@ This repository contains my individual submission for the Scientific Computing G
 - **SciPy** (for scientific algorithms, ODEs, integration, and optimization)
 - **Matplotlib** (for plotting and visual interpretation)
 
-## How to Run the Code
-To run any of the scripts in this repository, ensure you have the required libraries installed:
+ ## How to Run the Code
 
-```bash
-pip install numpy scipy matplotlib
-
-
- ## Setup and Installation
+To run any of the scripts in this repository, follow these steps:
 
 1. Clone the repository:
 ```bash
