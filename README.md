@@ -36,11 +36,9 @@ To run any of the scripts in this repository, ensure you have the required libra
 pip install numpy scipy matplotlib
 
 
-## Setup and Installation
+ ## Setup and Installation
 
-To run the code in this repository on your local machine, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/kennedyTrades/bit2118-scientific-computing.git
-   cd bit2118-scientific-computing
+1. Clone the repository:
+```bash
+git clone https://github.com/kennedyTrades/bit2118-scientific-computing.git
+cd bit2118-scientific-computing
