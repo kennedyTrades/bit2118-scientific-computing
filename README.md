@@ -1,8 +1,16 @@
 # BIT 2118 Scientific Computing — Group Work (Tasks 2–20)
 
-**Course:** BIT 2118 Scientific Computing
-**Student Name:** [Kennedy Njuguna Chege]
-**Registration Number:** [BSCCS/2024/56648]
+ **Course:** BIT 2118 Scientific Computing
+
+**Group Members:**
+1. Kennedy Njuguna - BSCCS/2024/56648  
+2. Blessley Joseph - BSCCS/2023/63927
+3. Hesbon Kipruto - BSCCS/2024/58641
+4. Mohamed Hassan - BSCCS/2024/56873
+5. Dennis Mbogo - BSCCS/2024/51424
+6. Eddie Kering - BSCCS/2024/61947
+7. Ombasa Isaac - BSCCS/2024/53672
+8. Geu Machar Deng - BSCCS/2024/54588
 **GitHub Repository:** https://github.com/kennedyTrades/bit2118-scientific-computing
 
 ## Project Overview
