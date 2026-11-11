@@ -11,6 +11,7 @@
 6. Eddie Kering - BSCCS/2024/61947
 7. Ombasa Isaac - BSCCS/2024/53672
 8. Geu Machar Deng - BSCCS/2024/54588
+
 **GitHub Repository:** https://github.com/kennedyTrades/bit2118-scientific-computing
 
 ## Project Overview
